@@ -1,1 +1,42 @@
-<mxfile host="www.draw.io" modified="2019-12-11T02:55:37.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.9" etag="CQDak_BO-h0q68QfJgih" type="github"><diagram id="jxIBq8fj0Mh-1-UjOnGg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-11T03:33:58.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="uiDYZcicwzrCwcCDSi23" version="12.3.9" type="github" pages="1">
+  <diagram id="jxIBq8fj0Mh-1-UjOnGg" name="Page-1">
+    <mxGraphModel dx="910" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="49sRlrLAXSHR5VUzhszV-1" target="49sRlrLAXSHR5VUzhszV-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="70" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49sRlrLAXSHR5VUzhszV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-2" value="查询历史报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-4" value="历史报警数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="49sRlrLAXSHR5VUzhszV-5" target="49sRlrLAXSHR5VUzhszV-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-5" value="报警生成服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="49sRlrLAXSHR5VUzhszV-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="290" as="sourcePoint"/>
+            <mxPoint x="419" y="250" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="419" y="270"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
