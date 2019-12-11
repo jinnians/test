@@ -1,1 +1,94 @@
-<mxfile host="www.draw.io" modified="2019-12-11T02:48:24.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="y9GUKcnJB0-O-zMvvV7d" version="12.3.9" type="github" pages="1"><diagram id="pfYrbmgO77ouWFvhEt6X" name="Page-1">5Vpbc5s4FP41ekwHEGD0iG3SdjeZZiY703ZfdrBRMC22HFmO7f31PQJhrrFJYxuadDqJdHQA6TvfuUgKwqP59iP3l7NbFtAYGVqwRXiMDIPoGvyUgl0q0G3spJKQR4GS5YL76H+qhOrBcB0FdFVSFIzFIlqWhVO2WNCpKMl8ztmmrPbA4vJXl35Ia4L7qR/XpV+jQMxSqWMMcvknGoWz7Mu6TdKRuZ8pq5WsZn7ANgUR9hAeccZE2ppvRzSW4GW4pM9dPzO6nxinC9Hmgb8ev7HP6/GX//55/NczQ3779+3kylJzE7tswTSA9asu42LGQrbwYy+XDjlbLwIq36pBL9e5YWwJQh2EP6gQO2VMfy0YiGZiHqtRmDDffVPPJ53vsvPByrrjbXFwvFO9+ooVCCu25lN6YJkZc3weUnFAz0j1JAaFDyg8P1I2pzAfUOA09kX0VOaIr6gW7vVya0BDGeQFxlHvffLjtfoSMuwY5j98YIBA0Wz241ryaPhEuYiAvVd+HIULhF35jcWM8kjkStAK1e9Tvs2zkeMi10Keg9wxcm0pIRYaaskQSDzkDRAxEblOJA4iWjYHACidRnlqNXGFrTkXJbE2s0jQ+6WfcGEDAanMu2f5I9dJtwctrkYzZ1bhzDBVf5PHBj3TmRXigq2diSODbh34g20Pik6sH3HhpHcHBILVU/5qvzZa+jU+tV+rR+9YlLhOxo4KPXSnYvZ0ouqp3PIu5/6uoLaUCqsD3zErNKyG/pfpQyOdQU7DPSa/z0yjHr08S8YA4iWBYYCGjRECui4iuMZryJ9L2Zzu4gjoy4/7+yTl+c1kL/CnP8OE/V/WAt5CTxcYdFKBGNcjg90QGKoMOVlgcDoODFYxLGhHwsLvRwD8R2Z2w3gfdVdb65B+WcfsOqlqpGwhTaJxycTa1nC6fpbM+tKEaGu4nHjNCyQ43JDgbFnbqhIYGkZDUfx8CatdpITV7UqRonddwxr1ZP8mcxVp61Rar8IhaeR5das3QK6e1G+O/OnWQ+ileY4rRe+e953xPLNrCckELlkAQ907lsWwd42GI+SMGiDNy2aSNMyDyqYspOF/3wxhWF0bwuh613yhgKO3PffS+1Ue6w0nXw0hBxrAepx4A+lDyLFw30KO8U62gRmBjzP95EdBr2N68ymJA9TWcl43npscPWvtmzf0IO6Td+INrbdvZr+8oWlLBWXMUJI95b6kPPgHcNxKhhxJdpCQEXKdhusFtRGzergRq/oH7vwyIaNDNe9eI5KGJSvD31Elq+NJW8gGFKKNSbr9AW/X+JsNR7YXxr+TbP2KOGOdOnw8d69ilesqrd29yqlOerJ1FvzCnQrGa9bK7ijW8zhVyO9Qb/wJje/YKhIRW4DKhAnB5qAQy4Hh/mZixGL5HLwNPyT/Cu9w02vYsWBnuNnUy95w1eAN+KLOUD930GuAw+JEGYqV4OwnzVBcMHnJM3yI4rgiUlfa4ylARnkDyPMoCBIHa4pEZac7Afz7q8JdGdYC+mYD+sbZSqX6WYXxhtEfVDZupGv46zvgesJ8M/Dvdwbnhx+6+Z9cpfkh/8M17P0C</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-11T02:49:46.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="O-kuR5-ShRPefYN9MInP" version="12.3.9" type="github" pages="1">
+  <diagram id="pfYrbmgO77ouWFvhEt6X" name="Page-1">
+    <mxGraphModel dx="910" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-1" target="JqXoIuDO_TqZE4grMKMb-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;报警数据生成&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-2" target="JqXoIuDO_TqZE4grMKMb-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="240" y="220"/>
+              <mxPoint x="240" y="220"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-2" value="实时数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="230" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-3" target="JqXoIuDO_TqZE4grMKMb-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-3" target="JqXoIuDO_TqZE4grMKMb-9" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.609;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-3" target="JqXoIuDO_TqZE4grMKMb-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="140"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-3" value="查询报警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-9" target="JqXoIuDO_TqZE4grMKMb-10" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-9" value="报警确认" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-10" value="记录，确认时间，确认人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-11" target="JqXoIuDO_TqZE4grMKMb-12" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-11" value="报警解除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-12" target="JqXoIuDO_TqZE4grMKMb-13" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-12" value="删除实时报警数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JqXoIuDO_TqZE4grMKMb-13" target="JqXoIuDO_TqZE4grMKMb-14" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-13" value="今日内不在生成该报警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-14" value="插入到历史报警数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JqXoIuDO_TqZE4grMKMb-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-30" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-19" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="60" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-20" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="190" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JqXoIuDO_TqZE4grMKMb-21" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="190" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="vpZ0CLemlo_BDGLBbH7N-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
