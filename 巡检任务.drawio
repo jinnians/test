@@ -1,1 +1,37 @@
-<mxfile host="www.draw.io" modified="2019-12-12T06:36:14.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.9" etag="loMoNyCNOkDX41E7B-eX" type="github"><diagram id="5MkryDlLNPxFbsLSqIKb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-12T08:06:51.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vP5vuhHcgA0s1cxIHzbk" version="12.3.9" type="github" pages="1">
+  <diagram id="5MkryDlLNPxFbsLSqIKb" name="Page-1">
+    <mxGraphModel dx="910" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d9MFE9qDKU4syH5RkXwB-1" target="d9MFE9qDKU4syH5RkXwB-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-1" value="计划性任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d9MFE9qDKU4syH5RkXwB-2" target="d9MFE9qDKU4syH5RkXwB-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-2" value="临时性任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d9MFE9qDKU4syH5RkXwB-3" target="d9MFE9qDKU4syH5RkXwB-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-3" value="获取任务基本数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d9MFE9qDKU4syH5RkXwB-6" target="d9MFE9qDKU4syH5RkXwB-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-6" value="从工作流配置里获取人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="d9MFE9qDKU4syH5RkXwB-7" value="开启巡检工作流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
