@@ -1,1 +1,64 @@
-<mxfile host="www.draw.io" modified="2019-12-13T03:15:03.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="12.4.1" etag="5OrOelXxj0jZfFhkG_4t" type="github" pages="1"><diagram id="7ay4QTefoc3fdtLbc1_c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-13T04:05:19.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="BZI1HSwD1rPmCKuhdqKe" version="12.4.1" type="github" pages="1">
+  <diagram id="7ay4QTefoc3fdtLbc1_c" name="Page-1">
+    <mxGraphModel dx="910" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-1" target="5kaqPkuS0D3MJ8qg8NSu-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-1" target="5kaqPkuS0D3MJ8qg8NSu-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-1" value="页面输入执行路径，&lt;br&gt;和执行间隔" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-2" target="5kaqPkuS0D3MJ8qg8NSu-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-2" value="开启一个线程，启用定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-3" target="5kaqPkuS0D3MJ8qg8NSu-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-3" target="5kaqPkuS0D3MJ8qg8NSu-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-3" value="执行路径中的方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-6" target="5kaqPkuS0D3MJ8qg8NSu-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-6" value="保存定时任务对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-7" value="定时任务" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-8" target="5kaqPkuS0D3MJ8qg8NSu-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-8" value="更新定时任务中的执行结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-9" target="5kaqPkuS0D3MJ8qg8NSu-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-9" value="保存任务执行记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-10" value="定时任务记录" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-11" value="定时任务" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="5kaqPkuS0D3MJ8qg8NSu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5kaqPkuS0D3MJ8qg8NSu-1" target="5kaqPkuS0D3MJ8qg8NSu-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
