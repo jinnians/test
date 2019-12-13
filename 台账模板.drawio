@@ -1,1 +1,65 @@
-<mxfile host="www.draw.io" modified="2019-12-13T01:46:05.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="12.4.1" etag="5CjwMmzxEEvQXFvePjvS" type="github" pages="1"><diagram id="Oh6MPku6m76XVrlNtOpv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-13T01:52:42.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="yvdxPKedgZp3Uk3wji0a" version="12.4.1" type="github" pages="1">
+  <diagram id="Oh6MPku6m76XVrlNtOpv" name="Page-1">
+    <mxGraphModel dx="1737" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EzfZE5tHnkSTUL2SEqtM-1" target="EzfZE5tHnkSTUL2SEqtM-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-1" value="选择设备树节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EzfZE5tHnkSTUL2SEqtM-2" target="EzfZE5tHnkSTUL2SEqtM-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-2" value="获取上级节点id，新建子级节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EzfZE5tHnkSTUL2SEqtM-3" target="EzfZE5tHnkSTUL2SEqtM-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="380"/>
+              <mxPoint x="313" y="380"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EzfZE5tHnkSTUL2SEqtM-3" target="EzfZE5tHnkSTUL2SEqtM-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-3" value="设备树表" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EzfZE5tHnkSTUL2SEqtM-4" target="EzfZE5tHnkSTUL2SEqtM-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-4" value="选择设备树节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="80" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EzfZE5tHnkSTUL2SEqtM-5" target="EzfZE5tHnkSTUL2SEqtM-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-5" value="获取设备节点code，新建采集项节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EzfZE5tHnkSTUL2SEqtM-6" target="EzfZE5tHnkSTUL2SEqtM-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="380"/>
+              <mxPoint x="313" y="380"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-6" value="采集项表" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="280" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-7" value="生成设备模板树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EzfZE5tHnkSTUL2SEqtM-8" value="生成采集项模板树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
