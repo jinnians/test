@@ -1,1 +1,43 @@
-<mxfile host="www.draw.io" modified="2019-12-13T02:49:31.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="12.4.1" etag="bISsDqAIacxPHJHb0ZP4" type="github"><diagram id="Y5YQ5RJBIBRNiB9pY1fb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-13T02:56:00.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="eao-K5veXmzPccHRrlXS" version="12.4.1" type="github" pages="1">
+  <diagram id="Y5YQ5RJBIBRNiB9pY1fb" name="Page-1">
+    <mxGraphModel dx="910" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KM0r5LssjFJfF-Icgcdr-1" target="KM0r5LssjFJfF-Icgcdr-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-1" value="选择设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KM0r5LssjFJfF-Icgcdr-2" target="KM0r5LssjFJfF-Icgcdr-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-2" value="给设备添加维护标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KM0r5LssjFJfF-Icgcdr-3" target="KM0r5LssjFJfF-Icgcdr-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KM0r5LssjFJfF-Icgcdr-3" target="KM0r5LssjFJfF-Icgcdr-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-3" value="整理维护项和维护标准对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-4" value="维护项" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-5" value="维护标准" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KM0r5LssjFJfF-Icgcdr-8" target="KM0r5LssjFJfF-Icgcdr-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KM0r5LssjFJfF-Icgcdr-8" value="输入设备维护项内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
