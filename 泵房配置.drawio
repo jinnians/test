@@ -1,1 +1,67 @@
-<mxfile host="www.draw.io" modified="2019-12-13T00:42:32.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="12.4.1" etag="QNoxDSGj0LgpWhe2L9JD" type="github"><diagram id="bCU__oNQbb6nEH-7t3S9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-13T01:02:41.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="jhbkurj7wxlIS6jOORDj" version="12.4.1" type="github" pages="1">
+  <diagram id="bCU__oNQbb6nEH-7t3S9" name="Page-1">
+    <mxGraphModel dx="910" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-1" target="Buns6f_QvFXHhzz8fdrB-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-1" value="设备模板树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-2" target="Buns6f_QvFXHhzz8fdrB-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-2" value="选择要生成的设备和采集项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-3" target="Buns6f_QvFXHhzz8fdrB-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-3" value="修改树的节点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-4" target="Buns6f_QvFXHhzz8fdrB-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-4" value="把树信息发送到后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-5" target="Buns6f_QvFXHhzz8fdrB-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-5" value="自动生成实例树编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-6" target="Buns6f_QvFXHhzz8fdrB-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-6" value="遍历树节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-7" target="Buns6f_QvFXHhzz8fdrB-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Buns6f_QvFXHhzz8fdrB-7" target="Buns6f_QvFXHhzz8fdrB-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-7" value="判断是否是采集项" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-8" value="保存采集项表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="750" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-9" value="保存设备表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-18" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="650" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Buns6f_QvFXHhzz8fdrB-19" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="660" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
